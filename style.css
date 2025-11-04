@@ -65,7 +65,7 @@ align-content: flex-end;
 justify-content: space-around;
 align-items: baseline;
 align-content: space-around;
-flex-wrap:wrap
+flex-wrap: wrap;
 }
 
 .between {
